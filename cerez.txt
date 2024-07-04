@@ -1,43 +1,46 @@
-Stuxnet Bilgi Teknolojileri Çerez Politikası
-
-1. Çerez Nedir?
-
-Çerezler, ziyaret ettiğiniz web siteleri tarafından tarayıcınıza gönderilen ve cihazınızda saklanan küçük metin dosyalarıdır. Çerezler, web sitelerinin çalışmasını veya daha verimli çalışmasını sağlamak ve site sahiplerine bilgi sağlamak amacıyla yaygın olarak kullanılır.
-
-2. Çerez Türleri
-
-Web sitemizde kullanılan çerezler şu kategorilere ayrılabilir:
-
-Kesinlikle Gerekli Çerezler: Bu çerezler, web sitesinin çalışması için gereklidir ve sistemlerimizde kapatılamaz. Genellikle, yalnızca gizlilik tercihlerinizi ayarlamak, oturum açmak veya formları doldurmak gibi hizmetleri sağlamak için ayarlanır.
-
-Performans Çerezleri: Bu çerezler, ziyaretleri ve trafik kaynaklarını sayarak performansını ölçmemize ve geliştirmemize yardımcı olur. Hangi sayfaların en çok ve en az popüler olduğunu ve ziyaretçilerin sitede nasıl gezindiğini görmemize yardımcı olurlar.
-
-Fonksiyonel Çerezler: Bu çerezler, web sitesinin geliştirilmiş işlevsellik ve kişiselleştirme sağlamasına olanak tanır. Bu çerezler, bizim tarafımızdan veya sayfalarımıza eklediğimiz üçüncü taraf sağlayıcılar tarafından ayarlanabilir.
-
-Hedefleme Çerezleri: Bu çerezler, reklam ortaklarımız tarafından sitemiz aracılığıyla ayarlanabilir. İlgi alanlarınızı bir profil oluşturmak ve diğer sitelerde alakalı reklamlar göstermek için kullanılabilirler.
-
-3. Çerezlerin Kullanımı
-
-Web sitemizi ziyaret ettiğinizde aşağıdaki türde çerezler kullanılabilir:
-
-Oturum Çerezleri: Bu çerezler, tarayıcınızı kapattığınızda sona erer ve oturum süresince geçerlidir.
-
-Kalıcı Çerezler: Bu çerezler, belirli bir süre boyunca (örneğin 30 gün) veya siz onları manuel olarak silene kadar cihazınızda kalır.
-
-4. Çerez Yönetimi
-
-Çerezlerin kullanımını kabul edebilir veya reddedebilirsiniz. Çerezleri kabul etmeyi tercih ederseniz, tarayıcı ayarlarınızı kullanarak çerezleri yönetebilir ve silebilirsiniz. Ancak, çerezleri devre dışı bırakmanın web sitemizin işlevselliğini etkileyebileceğini unutmayın.
-
-5. Üçüncü Taraf Çerezler
-
-Web sitemizde üçüncü taraf hizmet sağlayıcıların çerezleri de kullanılabilir. Bu çerezler, üçüncü taraf hizmet sağlayıcılarının gizlilik politikalarına tabidir.
-
-6. Çerez Politikasında Değişiklikler
-
-Bu çerez politikası zaman zaman güncellenebilir. Bu nedenle, web sitemizi her ziyaret ettiğinizde politikayı gözden geçirmenizi öneririz.
-
-7. İletişim
-
-Çerez politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
-
-
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çerez Politikası</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stuxnet Bilgi Teknolojileri Çerez Politikası</h1>
+    <h2>1. Çerez Nedir?</h2>
+    <p>Çerezler, ziyaret ettiğiniz web siteleri tarafından tarayıcınıza gönderilen ve cihazınızda saklanan küçük metin dosyalarıdır...</p>
+    <h2>2. Çerez Türleri</h2>
+    <p>Web sitemizde kullanılan çerezler şu kategorilere ayrılabilir:</p>
+    <ul>
+        <li><strong>Kesinlikle Gerekli Çerezler:</strong> Bu çerezler, web sitesinin çalışması için gereklidir ve sistemlerimizde kapatılamaz...</li>
+        <li><strong>Performans Çerezleri:</strong> Bu çerezler, ziyaretleri ve trafik kaynaklarını sayarak performansını ölçmemize ve geliştirmemize yardımcı olur...</li>
+        <li><strong>Fonksiyonel Çerezler:</strong> Bu çerezler, web sitesinin geliştirilmiş işlevsellik ve kişiselleştirme sağlamasına olanak tanır...</li>
+        <li><strong>Hedefleme Çerezleri:</strong> Bu çerezler, reklam ortaklarımız tarafından sitemiz aracılığıyla ayarlanabilir...</li>
+    </ul>
+    <h2>3. Çerezlerin Kullanımı</h2>
+    <p>Web sitemizi ziyaret ettiğinizde aşağıdaki türde çerezler kullanılabilir:</p>
+    <ul>
+        <li><strong>Oturum Çerezleri:</strong> Bu çerezler, tarayıcınızı kapattığınızda sona erer ve oturum süresince geçerlidir...</li>
+        <li><strong>Kalıcı Çerezler:</strong> Bu çerezler, belirli bir süre boyunca (örneğin 30 gün) veya siz onları manuel olarak silene kadar cihazınızda kalır...</li>
+    </ul>
+    <h2>4. Çerez Yönetimi</h2>
+    <p>Çerezlerin kullanımını kabul edebilir veya reddedebilirsiniz. Çerezleri kabul etmeyi tercih ederseniz, tarayıcı ayarlarınızı kullanarak çerezleri yönetebilir ve silebilirsiniz. Ancak, çerezleri devre dışı bırakmanın web sitemizin işlevselliğini etkileyebileceğini unutmayın.</p>
+    <h2>5. Üçüncü Taraf Çerezler</h2>
+    <p>Web sitemizde üçüncü taraf hizmet sağlayıcıların çerezleri de kullanılabilir. Bu çerezler, üçüncü taraf hizmet sağlayıcılarının gizlilik politikalarına tabidir.</p>
+    <h2>6. Çerez Politikasında Değişiklikler</h2>
+    <p>Bu çerez politikası zaman zaman güncellenebilir. Bu nedenle, web sitemizi her ziyaret ettiğinizde politikayı gözden geçirmenizi öneririz.</p>
+    <h2>7. İletişim</h2>
+    <p>Çerez politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz:</p>
+    <p>Stuxnet Bilgi Teknolojileri<br>Adres: [Adresiniz]<br>E-posta: [E-posta adresiniz]<br>Telefon: [Telefon numaranız]</p>
+</body>
+</html>
